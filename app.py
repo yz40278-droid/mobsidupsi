@@ -2,7 +2,7 @@
 from langchain_openai import ChatOpenAI
 
 llm = ChatOpenAI(model="gpt-4o", temperature=0,
-                 api_key="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")
+                 api_key="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")
 
 st.title("ChatBot Inteligente Kikin 1.0")
 
