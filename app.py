@@ -5,7 +5,6 @@ llm = ChatOpenAI(model="gpt-4o", temperature=0,
                  api_key="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")
 
 st.title("ChatBot Inteligente Kikin 1.0")
-st.image("C:/Users/josea/Documents/Cecytobb1.jpg",width=550)
 
 st.markdown(
     """
